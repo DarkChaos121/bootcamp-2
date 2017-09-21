@@ -8,6 +8,11 @@
   height: 500px;
 }
 /*---------------BODY SECTION-------------*/
+.body1 {
+  height: 500px;
+  background-color: #fff;
+}
+
 .box1 {
   border: 2px solid #000;
   border-radius: 15px;
