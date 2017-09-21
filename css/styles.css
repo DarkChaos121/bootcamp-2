@@ -1,0 +1,45 @@
+/*---------------FONT STYLES-------------*/
+
+/*---------------HERO SECTION-----------*/
+.hero-img {
+  background-image: url('https://static.pexels.com/photos/279315/pexels-photo-279315.jpeg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+/*---------------BODY SECTION-------------*/
+.box1 {
+  border: 2px solid #000;
+  border-radius: 15px;
+}
+
+.box2 {
+  border: 2px solid #000;
+  border-radius: 15px;
+}
+
+.box3 {
+  border: 2px solid #000;
+  border-radius: 15px;
+}
+
+.box4 {
+  height: 200px;
+  background-color: #ff0000;
+}
+
+.box5 {
+  height: 200px;
+  background-color: #0000ff;
+}
+
+.box6 {
+  height: 200px;
+  background-color: #000000;
+}
+
+.box7 {
+  height: 200px;
+  background-color: #ffff00;
+}
+/*--------------FOOTER SECTION----------*/
